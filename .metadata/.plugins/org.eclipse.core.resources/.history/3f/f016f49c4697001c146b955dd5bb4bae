@@ -1,0 +1,5 @@
+package com.reto.wishlist.service;
+
+public class ProductServiceImpl {
+
+}

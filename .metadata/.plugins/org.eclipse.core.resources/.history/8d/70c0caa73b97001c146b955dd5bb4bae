@@ -1,0 +1,18 @@
+package com.reto.wishlist.entity;
+
+import javax.persistence.Entity;
+import javax.persistence.Id;
+
+@Entity
+public class Product {
+	
+	@Id	
+	private Long id;
+	private String name;
+	private Long price;
+	private Long amount;
+	private String information;
+	
+	
+
+}

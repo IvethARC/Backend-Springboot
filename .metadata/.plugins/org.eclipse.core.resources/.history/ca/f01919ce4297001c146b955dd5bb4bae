@@ -1,0 +1,5 @@
+package com.reto.wishlist.repository;
+
+public interface ProductRepository {
+
+}
